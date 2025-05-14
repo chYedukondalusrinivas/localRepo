@@ -1,1 +1,1 @@
-#thsi repo is created thriugh local 
+# this repo is created through local 
